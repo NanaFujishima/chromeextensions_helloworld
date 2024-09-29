@@ -1,4 +1,4 @@
-Chrome Extensions leranning
+Chrome Extensions learning
 
-leraning end:
+learning end:
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=ja
